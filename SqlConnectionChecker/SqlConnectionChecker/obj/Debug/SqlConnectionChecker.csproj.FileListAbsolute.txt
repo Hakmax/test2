@@ -1,0 +1,9 @@
+F:\Dev\CSharp\!Work\SqlConnectionChecker\SqlConnectionChecker\bin\Debug\SqlConnectionChecker.exe.config
+F:\Dev\CSharp\!Work\SqlConnectionChecker\SqlConnectionChecker\bin\Debug\SqlConnectionChecker.exe
+F:\Dev\CSharp\!Work\SqlConnectionChecker\SqlConnectionChecker\bin\Debug\SqlConnectionChecker.pdb
+F:\Dev\CSharp\!Work\SqlConnectionChecker\SqlConnectionChecker\obj\Debug\SqlConnectionChecker.exe
+F:\Dev\CSharp\!Work\SqlConnectionChecker\SqlConnectionChecker\obj\Debug\SqlConnectionChecker.pdb
+F:\Dev\CSharp\!Work\SqlConnectionChecker\SqlConnectionChecker\obj\Debug\SqlConnectionChecker.csprojResolveAssemblyReference.cache
+f:\Dev\CSharp\!Work\testrepo2\test2\SqlConnectionChecker\SqlConnectionChecker\bin\Debug\SqlConnectionChecker.exe.config
+f:\Dev\CSharp\!Work\testrepo2\test2\SqlConnectionChecker\SqlConnectionChecker\obj\Debug\SqlConnectionChecker.exe
+f:\Dev\CSharp\!Work\testrepo2\test2\SqlConnectionChecker\SqlConnectionChecker\obj\Debug\SqlConnectionChecker.pdb
